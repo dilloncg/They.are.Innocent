@@ -23,6 +23,19 @@ p{
   color: white;
 }
 
+a{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Patrick Hand', cursive;
+  text-decoration: none;
+  margin: 10px;
+  color: white;
+}
+
+a:hover{
+  color: rgba(255, 18, 109)
+}
+
 .options{
   text-align: center;
   font-size: 60px;
