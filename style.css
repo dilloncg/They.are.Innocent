@@ -14,6 +14,15 @@ h1{
   color: white;
 }
 
+p{
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Patrick Hand', cursive;
+  text-decoration: none;
+  margin: 10px;
+  color: white;
+}
+
 .options{
   text-align: center;
   font-size: 60px;
@@ -35,6 +44,15 @@ h1{
     color: white;
   }
 
+  p{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Patrick Hand', cursive;
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+  }
+
   .options{
     text-align: left;
     font-size: 50px;
@@ -51,6 +69,15 @@ h1{
     font-family: 'Patrick Hand', cursive;
     text-align: center;
     font-size: 50px;
+    color: white;
+  }
+
+  p{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Patrick Hand', cursive;
+    text-decoration: none;
+    margin: 10px;
     color: white;
   }
 
