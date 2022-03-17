@@ -1,3 +1,37 @@
 img{
   max-width: 100%;
 }
+
+body{
+  margin: 0px;
+  background-color: rgba(0, 165, 157);
+}
+
+h1{
+  font-family: 'Patrick Hand', cursive;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+}
+
+p{
+  text-align: left;
+  font-size: 60px;
+  font-family: 'Patrick Hand', cursive;
+  text-decoration: none;
+  margin: 100px;
+  color: white;
+  font-kerning: normal;
+}
+
+a{
+  font-family: 'Patrick Hand', cursive;
+  text-align: center;
+  text-decoration: none;
+  font-size: 60px;
+  color: white;
+}
+
+a:hover{
+  color: rgba(255, 18, 109);
+}
